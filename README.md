@@ -1,2 +1,2 @@
-# tdd_erlang_slides
+# tdd_erlang
 Slides for TDD 💕 Erlang talk
