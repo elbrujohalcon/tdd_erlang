@@ -1,0 +1,7 @@
+{application,
+ emojifier,
+ [{description, "Add magic to your strings 🧙‍♂️"},
+  {vsn, git},
+  {id, "emojifier"},
+  {applications, [kernel, stdlib]},
+  {mod, {emojifier, noargs}}]}.
